@@ -17,7 +17,8 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Stakeholder list & communication plan
 - High-level timeline and key milestones
 - Initial risk list
-- Resource needs (team roles, rough effort estimate)
+- Resource needs (team roles with role-level owners, rough effort estimate)
+  - Note: Proposed team should list role-level owners (e.g., PM, PdM, Scrum Master, DevOps lead, UX lead, BA)
 
 ## Project One-pager Template
 - Project name:
@@ -28,6 +29,14 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Suggested timeline / milestones:
 - Quick risks & dependencies:
 - Proposed team / roles:
+  - [ ] PM (Project Manager) — required
+  - [ ] PdM (Product Manager) — required
+  - [ ] Dev lead — required
+  - [ ] QA lead — recommended
+  - [ ] Scrum Master — if using agile ceremonies
+  - [ ] UX Designer — if significant UI/UX work
+  - [ ] DevOps Engineer — if infrastructure changes or deployment complexity
+  - [ ] Business Analyst — if complex requirements or stakeholder alignment needs
 
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
